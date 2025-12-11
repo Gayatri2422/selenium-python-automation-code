@@ -1,0 +1,24 @@
+12/08/2025 06:47:58 PM - INFO : Click on going to field
+12/08/2025 06:47:59 PM - INFO : Enter going to place name in text field
+12/08/2025 06:50:07 PM - WARNING : Selected flight with 1 stop
+12/08/2025 06:50:08 PM - INFO : 114
+12/08/2025 07:01:51 PM - INFO - LaunchPage :yatra_launch_page.py : Click on going to field
+12/08/2025 07:01:52 PM - INFO - LaunchPage :yatra_launch_page.py : Enter going to place name in text field
+12/08/2025 07:04:03 PM - WARNING - SearchFlightResults :search_flights_results_page.py : Selected flight with 1 stop
+12/08/2025 07:04:03 PM - INFO - TestSearchAndVeriryFlights :test_searchflights.py : 114
+12/08/2025 11:17:01 PM - INFO - LaunchPage :yatra_launch_page.py : Click on going to field
+12/08/2025 11:17:01 PM - INFO - LaunchPage :yatra_launch_page.py : Enter going to place name in text field
+12/08/2025 11:18:28 PM - WARNING - SearchFlightResults :search_flights_results_page.py : Selected flight with 1 stop
+12/08/2025 11:18:28 PM - INFO - TestSearchAndVeriryFlights :test_searchflights.py : 55
+12/08/2025 11:19:00 PM - INFO - LaunchPage :yatra_launch_page.py : Click on going to field
+12/08/2025 11:19:01 PM - INFO - LaunchPage :yatra_launch_page.py : Enter going to place name in text field
+12/08/2025 11:21:28 PM - WARNING - SearchFlightResults :search_flights_results_page.py : Selected flight with 1 stop
+12/08/2025 11:21:29 PM - INFO - TestSearchAndVeriryFlights :test_searchflights.py : 145
+12/10/2025 01:43:42 PM - INFO - LaunchPage :yatra_launch_page.py : Click on going to field
+12/10/2025 01:43:43 PM - INFO - LaunchPage :yatra_launch_page.py : Enter going to place name in text field
+12/10/2025 01:46:07 PM - WARNING - SearchFlightResults :search_flights_results_page.py : Selected flight with 1 stop
+12/10/2025 01:46:07 PM - INFO - TestSearchAndVeriryFlights :test_searchflights.py : 130
+12/10/2025 01:46:44 PM - INFO - LaunchPage :yatra_launch_page.py : Click on going to field
+12/10/2025 01:46:44 PM - INFO - LaunchPage :yatra_launch_page.py : Enter going to place name in text field
+12/10/2025 01:49:16 PM - WARNING - SearchFlightResults :search_flights_results_page.py : Selected flight with 1 stop
+12/10/2025 01:49:17 PM - INFO - TestSearchAndVeriryFlights :test_searchflights.py : 154
