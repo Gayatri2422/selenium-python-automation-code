@@ -39,3 +39,8 @@ class BaseDriver:
         wait = WebDriverWait(self.driver, 10)
         dropdown_selection = wait.until(EC.visibility_of_element_located((locator_type,locator)))
         return dropdown_selection
+    
+    # This is my new added code....sdet1
+    
+
+
