@@ -41,6 +41,9 @@ class BaseDriver:
         return dropdown_selection
     
     # This is my new added code....sdet1
+
+    def testcase(self):
+        print("this is the testcase scenario")
     
 
 
