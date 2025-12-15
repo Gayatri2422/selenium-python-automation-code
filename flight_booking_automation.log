@@ -67,3 +67,35 @@
 12/10/2025 06:05:35 PM - INFO - LaunchPage :yatra_launch_page.py : Enter going to place name in text field
 12/10/2025 06:08:06 PM - WARNING - SearchFlightResults :search_flights_results_page.py : Selected flight with 1 stop
 12/10/2025 06:08:06 PM - INFO - TestSearchAndVeriryFlights :test_searchflights.py : 122
+12/15/2025 06:19:21 PM - INFO - LaunchPage :yatra_launch_page.py : Click on going to field
+12/15/2025 06:19:21 PM - INFO - LaunchPage :yatra_launch_page.py : Enter going to place name in text field
+12/15/2025 06:19:53 PM - INFO - LaunchPage :yatra_launch_page.py : Click on going to field
+12/15/2025 06:19:54 PM - INFO - LaunchPage :yatra_launch_page.py : Enter going to place name in text field
+12/15/2025 06:23:14 PM - INFO - LaunchPage :yatra_launch_page.py : Click on going to field
+12/15/2025 06:23:14 PM - INFO - LaunchPage :yatra_launch_page.py : Enter going to place name in text field
+12/15/2025 06:25:53 PM - INFO - LaunchPage :yatra_launch_page.py : Click on going to field
+12/15/2025 06:25:53 PM - INFO - LaunchPage :yatra_launch_page.py : Enter going to place name in text field
+12/15/2025 06:31:27 PM - INFO - LaunchPage :yatra_launch_page.py : Click on going to field
+12/15/2025 06:31:28 PM - INFO - LaunchPage :yatra_launch_page.py : Enter going to place name in text field
+12/15/2025 06:33:37 PM - WARNING - SearchFlightResults :search_flights_results_page.py : Selected flight with 1 stop
+12/15/2025 06:33:38 PM - INFO - TestSearchAndVeriryFlights :test_searchflights.py : 139
+12/15/2025 06:34:16 PM - INFO - LaunchPage :yatra_launch_page.py : Click on going to field
+12/15/2025 06:34:16 PM - INFO - LaunchPage :yatra_launch_page.py : Enter going to place name in text field
+12/15/2025 06:36:38 PM - WARNING - SearchFlightResults :search_flights_results_page.py : Selected flight with 1 stop
+12/15/2025 06:36:39 PM - INFO - TestSearchAndVeriryFlights :test_searchflights.py : 162
+12/15/2025 06:48:19 PM - INFO - LaunchPage :yatra_launch_page.py : Click on going to field
+12/15/2025 06:48:20 PM - INFO - LaunchPage :yatra_launch_page.py : Enter going to place name in text field
+12/15/2025 06:50:26 PM - WARNING - SearchFlightResults :search_flights_results_page.py : Selected flight with 1 stop
+12/15/2025 06:50:26 PM - INFO - TestSearchAndVeriryFlights :test_searchflights.py : 139
+12/15/2025 06:51:07 PM - INFO - LaunchPage :yatra_launch_page.py : Click on going to field
+12/15/2025 06:51:07 PM - INFO - LaunchPage :yatra_launch_page.py : Enter going to place name in text field
+12/15/2025 06:53:31 PM - WARNING - SearchFlightResults :search_flights_results_page.py : Selected flight with 1 stop
+12/15/2025 06:53:32 PM - INFO - TestSearchAndVeriryFlights :test_searchflights.py : 162
+12/15/2025 07:02:34 PM - INFO - LaunchPage :yatra_launch_page.py : Click on going to field
+12/15/2025 07:02:34 PM - INFO - LaunchPage :yatra_launch_page.py : Enter going to place name in text field
+12/15/2025 07:04:40 PM - WARNING - SearchFlightResults :search_flights_results_page.py : Selected flight with 1 stop
+12/15/2025 07:04:41 PM - INFO - TestSearchAndVeriryFlights :test_searchflights.py : 139
+12/15/2025 07:05:23 PM - INFO - LaunchPage :yatra_launch_page.py : Click on going to field
+12/15/2025 07:05:24 PM - INFO - LaunchPage :yatra_launch_page.py : Enter going to place name in text field
+12/15/2025 07:07:42 PM - WARNING - SearchFlightResults :search_flights_results_page.py : Selected flight with 1 stop
+12/15/2025 07:07:43 PM - INFO - TestSearchAndVeriryFlights :test_searchflights.py : 162
