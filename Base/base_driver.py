@@ -42,8 +42,10 @@ class BaseDriver:
     
     # This is my new added code....sdet1
 
-    def testcase(self):
-        print("this is the testcase scenario")
+
+
+    def test_method_sdet1(self):
+        print("sedt1 method")
     
 
 
