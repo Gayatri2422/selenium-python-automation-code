@@ -41,6 +41,11 @@ class BaseDriver:
         return dropdown_selection
     
     # This is my new added code....sdet1
+
+
+
+    def test_method_sdet1(self):
+        print("sedt1 method")
     
 
 
